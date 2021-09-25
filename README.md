@@ -1,4 +1,4 @@
-# hexa3d
+# hexa3d url shortner service
 
 
 clone the repository to local machine
